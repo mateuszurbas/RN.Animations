@@ -104,10 +104,10 @@ package-lock.json
 /template/vendor
 
 # iOS / CocoaPods
-/template/ios/build/
-/template/ios/Pods/
-/template/ios/Podfile.lock
-/packages/rn-tester/Gemfile.lock
+/ios/build/
+/ios/Pods/
+/ios/Podfile.lock
+/rn-tester/Gemfile.lock
 
 # Ignore RNTester specific Pods, but keep the __offline_mirrors__ here.
 /packages/rn-tester/Pods/*
